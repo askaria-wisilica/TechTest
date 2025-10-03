@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Vintage Camera",
+    "location": "Wellington",
+    "price": 100.0,
+    "imageUrl": "https://picsum.photos/seed/item0/600/400",
+    "buyNowPrice": 120.0,
+    "isClassified": true
+  },
+  {
+    "name": "Mountain Bike",
+    "location": "Auckland",
+    "price": 137.5,
+    "imageUrl": "https://picsum.photos/seed/item1/600/400",
+    "buyNowPrice": null,
+    "isClassified": false
+  },
+  {
+    "name": "Gaming Laptop",
+    "location": "Christchurch",
+    "price": 175.0,
+    "imageUrl": "https://picsum.photos/seed/item2/600/400",
+    "buyNowPrice": 200.0,
+    "isClassified": false
+  },
+  {
+    "name": "Coffee Machine",
+    "location": "Hamilton",
+    "price": 212.5,
+    "imageUrl": "https://picsum.photos/seed/item3/600/400",
+    "buyNowPrice": null,
+    "isClassified": true
+  },
+  {
+    "name": "Acoustic Guitar",
+    "location": "Tauranga",
+    "price": 250.0,
+    "imageUrl": "https://picsum.photos/seed/item4/600/400",
+    "buyNowPrice": 280.0,
+    "isClassified": false
+  },
+  {
+    "name": "Smartphone",
+    "location": "Dunedin",
+    "price": 287.5,
+    "imageUrl": "https://picsum.photos/seed/item5/600/400",
+    "buyNowPrice": null,
+    "isClassified": false
+  },
+  {
+    "name": "Desk Lamp",
+    "location": "Palmerston North",
+    "price": 325.0,
+    "imageUrl": "https://picsum.photos/seed/item6/600/400",
+    "buyNowPrice": 360.0,
+    "isClassified": true
+  },
+  {
+    "name": "Running Shoes",
+    "location": "Napier",
+    "price": 362.5,
+    "imageUrl": "https://picsum.photos/seed/item7/600/400",
+    "buyNowPrice": null,
+    "isClassified": false
+  },
+  {
+    "name": "Leather Jacket",
+    "location": "Nelson",
+    "price": 400.0,
+    "imageUrl": "https://picsum.photos/seed/item8/600/400",
+    "buyNowPrice": 440.0,
+    "isClassified": false
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "location": "Rotorua",
+    "price": 437.5,
+    "imageUrl": "https://picsum.photos/seed/item9/600/400",
+    "buyNowPrice": null,
+    "isClassified": true
+  },
+  {
+    "name": "Smart Watch",
+    "location": "Invercargill",
+    "price": 475.0,
+    "imageUrl": "https://picsum.photos/seed/item10/600/400",
+    "buyNowPrice": 520.0,
+    "isClassified": false
+  },
+  {
+    "name": "Tablet",
+    "location": "Whangarei",
+    "price": 512.5,
+    "imageUrl": "https://picsum.photos/seed/item11/600/400",
+    "buyNowPrice": null,
+    "isClassified": false
+  },
+  {
+    "name": "Road Bike",
+    "location": "New Plymouth",
+    "price": 550.0,
+    "imageUrl": "https://picsum.photos/seed/item12/600/400",
+    "buyNowPrice": 600.0,
+    "isClassified": true
+  },
+  {
+    "name": "Drone",
+    "location": "Gisborne",
+    "price": 587.5,
+    "imageUrl": "https://picsum.photos/seed/item13/600/400",
+    "buyNowPrice": null,
+    "isClassified": false
+  },
+  {
+    "name": "Sofa Set",
+    "location": "Queenstown",
+    "price": 625.0,
+    "imageUrl": "https://picsum.photos/seed/item14/600/400",
+    "buyNowPrice": 680.0,
+    "isClassified": false
+  },
+  {
+    "name": "Dining Table",
+    "location": "Timaru",
+    "price": 662.5,
+    "imageUrl": "https://picsum.photos/seed/item15/600/400",
+    "buyNowPrice": null,
+    "isClassified": true
+  },
+  {
+    "name": "Bookshelf",
+    "location": "Hastings",
+    "price": 700.0,
+    "imageUrl": "https://picsum.photos/seed/item16/600/400",
+    "buyNowPrice": 760.0,
+    "isClassified": false
+  },
+  {
+    "name": "Office Chair",
+    "location": "Blenheim",
+    "price": 737.5,
+    "imageUrl": "https://picsum.photos/seed/item17/600/400",
+    "buyNowPrice": null,
+    "isClassified": false
+  },
+  {
+    "name": "Tent",
+    "location": "Taupo",
+    "price": 775.0,
+    "imageUrl": "https://picsum.photos/seed/item18/600/400",
+    "buyNowPrice": 840.0,
+    "isClassified": true
+  },
+  {
+    "name": "Sleeping Bag",
+    "location": "Masterton",
+    "price": 812.5,
+    "imageUrl": "https://picsum.photos/seed/item19/600/400",
+    "buyNowPrice": null,
+    "isClassified": false
+  },
+  {
+    "name": "Kayak",
+    "location": "Cambridge",
+    "price": 850.0,
+    "imageUrl": "https://picsum.photos/seed/item20/600/400",
+    "buyNowPrice": 920.0,
+    "isClassified": false
+  },
+  {
+    "name": "Ski Set",
+    "location": "Levin",
+    "price": 887.5,
+    "imageUrl": "https://picsum.photos/seed/item21/600/400",
+    "buyNowPrice": null,
+    "isClassified": true
+  },
+  {
+    "name": "Microwave Oven",
+    "location": "Ashburton",
+    "price": 925.0,
+    "imageUrl": "https://picsum.photos/seed/item22/600/400",
+    "buyNowPrice": 1000.0,
+    "isClassified": false
+  },
+  {
+    "name": "Fridge",
+    "location": "Kerikeri",
+    "price": 962.5,
+    "imageUrl": "https://picsum.photos/seed/item23/600/400",
+    "buyNowPrice": null,
+    "isClassified": false
+  },
+  {
+    "name": "Washing Machine",
+    "location": "Oamaru",
+    "price": 1000.0,
+    "imageUrl": "https://picsum.photos/seed/item24/600/400",
+    "buyNowPrice": 1080.0,
+    "isClassified": true
+  }
+]

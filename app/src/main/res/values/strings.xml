@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TradeMe Tech</string>
+    <string name="msg_search_click">Search icon click</string>
+    <string name="watchlist">Watchlist</string>
+    <string name="profile">My TradeMe</string>
+    <string name="discover">Discover</string>
+    <string name="no_reserve">No reserve</string>
+    <string name="buy">Buy Now</string>
+    <string name="cart_click">Cart icon click</string>
+
+</resources>
